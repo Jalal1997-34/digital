@@ -1,0 +1,5 @@
+{
+  "name": "DigitalRecap - YouTube URL Shortener",
+  "description": "A feature within DigitalRecap to shorten multiple YouTube URLs at once, with a custom domain, QR codes, and simulated redirects.",
+  "requestFramePermissions": []
+}
